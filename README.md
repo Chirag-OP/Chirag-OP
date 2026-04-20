@@ -1,6 +1,7 @@
-## Hi there 👋 i'm chirag
+## hey 👋 i'm Chirag
+
 prefinal year @ iit ropar  
----
+trying to build things that actually work  
 
 ## 🚀 what i'm up to
 - building web apps  
@@ -9,7 +10,7 @@ prefinal year @ iit ropar
 ## ⚒️ stuff i use
 js / react / node  
 c++ (dsa)  
-python when ml enters the chat
+python when ml enters the chat  
 
 ## 📈 current goal
 crack a solid sde internship  
