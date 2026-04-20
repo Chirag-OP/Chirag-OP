@@ -1,7 +1,6 @@
 ## hey 👋 i'm chirag
 
 prefinal year @ iit ropar  
-trying to build things that actually work  
 
 **🚀 what i'm up to**
 - building web apps  
