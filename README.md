@@ -1,18 +1,18 @@
-## hey 👋 i'm Chirag
+## hey 👋 i'm chirag
 
 prefinal year @ iit ropar  
 trying to build things that actually work  
 
-## 🚀 what i'm up to
+**🚀 what i'm up to**
 - building web apps  
 - grinding dsa (because OAs don’t care about feelings)
 
-## ⚒️ stuff i use
+**⚒️ stuff i use**
 js / react / node  
 c++ (dsa)  
 python when ml enters the chat  
 
-## 📈 current goal
+**📈 current goal**
 crack a solid sde internship  
 
 ⚡ most commits happen after “one last try”
