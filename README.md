@@ -12,7 +12,7 @@ trying to build things that actually work
 - c++ (dsa)  
 - python when ml enters the chat  
 
-**📈 current goal**
+**📈 current goal**  
 crack a solid sde internship  
 
 ⚡ most commits happen after “one last try”
