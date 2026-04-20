@@ -1,5 +1,26 @@
-## Hi there 👋
+## Hi there 👋 i'm chirag
+prefinal year @ iit ropar  
+---
 
+## 🚀 what i'm up to
+- building web apps  
+- grinding dsa (because OAs don’t care about feelings)
+  
+---
+
+## ⚒️ stuff i use
+js / react / node  
+c++ (dsa)  
+python when ml enters the chat
+
+---
+
+## 📈 current goal
+crack a solid sde internship  
+
+---
+
+⚡ most commits happen after “one last try”
 <!--
 **Chirag-OP/Chirag-OP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
