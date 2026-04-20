@@ -8,9 +8,9 @@ trying to build things that actually work
 - grinding dsa (because OAs don’t care about feelings)
 
 **⚒️ stuff i use**
-js / react / node  
-c++ (dsa)  
-python when ml enters the chat  
+- js / react / node  
+- c++ (dsa)  
+- python when ml enters the chat  
 
 **📈 current goal**
 crack a solid sde internship  
